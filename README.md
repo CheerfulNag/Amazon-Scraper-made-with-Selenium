@@ -1,0 +1,3 @@
+Amazon scraper that uses Selenium. Through changing arguments in main function you're able to change your search term, country of delivery that you need, want you or not to save images for products outside the xlsx file you'll get as output and if your internet is slow and program can't load all results, you can change render time for pages.
+Please note that product images will be download not for all products, about 1-5% of them wont save (if your search term the same, it'll be the same ones too).
+Also, as a pleasant bonus - you can add another few calls to main function and then run program, it'll work and save your results separately. Xlsx file will be called as your search term + country you searched for + "results" word.
